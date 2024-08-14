@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809968701091",
+    "project_id": "mobileapps-5d11f",
+    "storage_bucket": "mobileapps-5d11f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809968701091:android:e5dc0d1258a18e33f9b916",
+        "android_client_info": {
+          "package_name": "com.example.contacts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFfKRgpDZ9B7Ft75nI0R9V7wNRcPBtaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809968701091:android:b47f6bbd1f6a4ffff9b916",
+        "android_client_info": {
+          "package_name": "com.example.filmler_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFfKRgpDZ9B7Ft75nI0R9V7wNRcPBtaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
